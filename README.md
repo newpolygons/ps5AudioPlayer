@@ -1,7 +1,7 @@
 # ps5AudioPlayer
  Audio Player For Playstation 5
 
-
+not implemented yet will continue working in my freetime for initial release.
 
 might just make it in websvr kinda cheese but not seeing how to compile .pkg will do more searching..
 
